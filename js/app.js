@@ -43,14 +43,11 @@ productos.forEach((product) => {
       console.log(carrito);
       console.log(carrito.length);
       carritoCounter();
-      saveLocal();
+      localStorage.setItem("carrito", JSON.stringify(carrito));
     }
   });
 });
 
-//set item
-const saveLocal = () => {
-  localStorage.setItem("carrito", JSON.stringify(carrito));
-};
+//set itemconst saveLocal = () => {};
 
 //get item
