@@ -1,3 +1,9 @@
+swal.fire ({
+  title: "Bienvenido!",
+  text: "Estamos felices de que nos visites",
+})
+  
+
 const shopContent = document.getElementById("shopContent");
 const verCarrito = document.getElementById("verCarrito");
 const modalContainer = document.getElementById("modal-container");
