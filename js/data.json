@@ -5,28 +5,28 @@
       "nombre": "Bota",
       "precio": 35000,
       "cantidad": 1,
-      "img": "../img/bota_walker.png"
+      "img": "./img/bota_walker.png"
     },
     {
       "id": 2,
       "nombre": "Baston",
       "precio": 32000,
       "cantidad": 1,
-      "img": "../img/baston_silfab.png"
+      "img": "./img/baston_silfab.png"
     },
     {
       "id": 3,
       "nombre": "Muleta",
       "precio": 10000,
       "cantidad": 1,
-      "img": "../img/muleta_dema.jpg"
+      "img": "./img/muleta_dema.jpg"
     },
     {
       "id": 4,
       "nombre": "Sujetador_rodilla",
       "precio": 30000,
       "cantidad": 1,
-      "img": "../img/sugetador_de_rodilla.jpg"
+      "img": "./img/sugetador_de_rodilla.jpg"
     }
   ]
 }
